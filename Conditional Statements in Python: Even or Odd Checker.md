@@ -1,5 +1,3 @@
-
-[Conditional Statements in Python_ Even or Odd Checker.md](https://github.com/user-attachments/files/24349137/Conditional.Statements.in.Python_.Even.or.Odd.Checker.md)
 # Conditional Statements in Python: Even or Odd Checker
 
 ## 🎯 Aim
